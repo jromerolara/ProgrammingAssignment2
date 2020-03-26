@@ -33,3 +33,5 @@ cacheSolve <- function(x, ...) {
   i
 }        
 }
+
+# made additional changes to file after cloning for local edition of the cachematrix.R file.
